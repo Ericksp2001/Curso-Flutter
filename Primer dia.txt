@@ -28,5 +28,20 @@ Organizacionales: No gestionar de manera correcta, autoritarismo, traslacion de 
 enfoque
 
 //El comportamiento como desarrollo BDD//
+Define el desarrollo por funcionalidades y practicidad "Que se quiere llegar a hacer", dando una manera de verificar que el trabajo fue bien hecho 
+ademas otorga flexibilidad dado que no limita el como se realizara el proyecto. 
+- TDD Por pruebas
+- SBE Usando ejemplos para demostrar con cuales funcionan
+- DDD Por el contexto
+
+Proceso: 
+- Recolectar informacion
+- Proponer ideas de desarrollo
+- Plantear caracteristicas
+- Describir criterios de aceptacion
+- Diseñar unidades de pruebas
+- Codificar una soluciones
+- Implementar el software
+- Entregar
 
 
