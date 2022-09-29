@@ -1,0 +1,15 @@
+
+Probar>Validar: Basicamente es evitar que no compile
+Analizar>Documentacion: Refleja el analisis del funcionamiento y su potencial
+Diseñar>Modelar: Acercarnos a la realidad es decir crear diagramas, etc.
+Planear>Estimacion: Evaluacion de costos, definicion de herramientas para el cumplimiento de un objetivo
+Predecir>Permite alcanzar la escalabilidad
+
+//Ciclo de vida de desarrollo de software//
+*Planear->Analisis->Diseño->Codificar->Probar->Entregar*
+
+//Desarrollo Agil//
+Pequeño que permita crecer y escalarse "Agilismo". Cada parte entregada debe de ser funcional individualmente "valor" dentro de lo posible, 
+segmentar funciones y dividir el proyecto. Alineado a un reto de negocio, es decir no altera el presupuesto ni el tiempo sino el alcance sin
+perder el valor.   
+
