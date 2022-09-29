@@ -11,5 +11,22 @@ Predecir>Permite alcanzar la escalabilidad
 //Desarrollo Agil//
 Pequeño que permita crecer y escalarse "Agilismo". Cada parte entregada debe de ser funcional individualmente "valor" dentro de lo posible, 
 segmentar funciones y dividir el proyecto. Alineado a un reto de negocio, es decir no altera el presupuesto ni el tiempo sino el alcance sin
-perder el valor.   
+perder el valor. 
+
+Primero se realiza lo que mayor valor tenga, analogo a las preguntas de mayor puntaje en un examen siempre se debe de priorizar crear las
+funcionalidades primero, los requerimientos que tenga el proyecto
+
+Prioriza: Software funcional antes que documentacion super especifica. Trabajar con el cliente, antes de trabajar con un contrato fijo
+
+//Anti patrones//
+Seguir rigurosamente algo y aplicarlo en cualquier escenario. 
+
+Administracion: Evitar aplicar el mismo proceso a todo, no administrar correctamente, hacerlo sin coraje y dar soluciones equivocadas a los problemas
+Diseño: Englobar funcionalidades, construccion en desorden, dividir demasiado
+Arquitectura: Evitar la division en equipos sin comunicacion entre si, inventar el agua tibia, imponer diseños
+Organizacionales: No gestionar de manera correcta, autoritarismo, traslacion de costos a los vulnerables, esforzarse demasiado antes de cambiar el
+enfoque
+
+//El comportamiento como desarrollo BDD//
+
 
