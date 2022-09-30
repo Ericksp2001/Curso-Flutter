@@ -3,12 +3,47 @@
 Porque->Que->Como
 
 La respuesta al porque es bastante mas amplia y con el Que se intenta orientar a algo mas especifico y con el como se define todo, siendo
-asi la parte mas especifica. Se plantea una narrativa denominada "Historia de usuario" la cual puede tener distintas perspectivas y anexos. Para
-Esto existen parametros de verificacion:
-I: Independiente
+asi la parte mas especifica. Se plantea una narrativa denominada "Historia de usuario" la cual puede tener distintas perspectivas y anexos. 
+
+Para esto existen parametros de verificacion:
+I: Independiente> Se nota la ausencia de un antecedente o un final "¿Y?"
 N: Negociable
 V: Valiosa
 E: Estimable
 S: Small
-T: Testable
+T: Testable> 
 
+//Redaccion de los supuestos//
+
+Componentes son:
+Beneficiario, Necesidad (Conecta con algo), Funcionalidad
+Quien, Porque, Que
+
+Se vende con el Porque se necesita "Valor", mas no por el que hace un sistema 
+Lo que la funcionalidad permite lograr
+
+//El dialogo como verificacion//
+
+Se aprende de la verificaciones frecuentes, como en una revision de una prueba con mala nota. Evitar ambiguedades
+
+//Criterios de Aceptacion (Parte del que)//
+
+Componentes:
+Estado inicial, evento, resultado
+
+Dado que
+Cuando
+Entonces
+
+//Antipatrones//
+
+Ausencia de INVEST
+No priorizar las unidades de testeo
+No controlar su continuidad
+Centrarse mucho en la presentacion
+
+//Parte Practica//
+Propongan ideas, en si cuales son los retos
+Plantee caracteristicas, Sin perde el Valor
+Criterios de aceptacion, distintos escenarios
+Diseñe unidades de pruebas, codigo ejecutable
