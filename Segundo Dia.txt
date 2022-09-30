@@ -2,3 +2,13 @@
 
 Porque->Que->Como
 
+La respuesta al porque es bastante mas amplia y con el Que se intenta orientar a algo mas especifico y con el como se define todo, siendo
+asi la parte mas especifica. Se plantea una narrativa denominada "Historia de usuario" la cual puede tener distintas perspectivas y anexos. Para
+Esto existen parametros de verificacion:
+I: Independiente
+N: Negociable
+V: Valiosa
+E: Estimable
+S: Small
+T: Testable
+
