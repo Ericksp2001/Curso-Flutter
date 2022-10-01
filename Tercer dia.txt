@@ -1,1 +1,6 @@
-
+Aplicaciones nativas
+Significa que funcionan en un sistema operativo especifico y obedece a ciertas necesidades
+PWA prograssive web app
+Emplean el navegador usando el motor del navegador, es decir usan tecnologias web para emular las aplicaciones nativas
+//Flutter//
+Agrega una capa que permite la comunicacion con el sistema operativo
